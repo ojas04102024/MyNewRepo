@@ -1,0 +1,3 @@
+# MyNewRepo
+This is my new repo, watching youtube
+Making changes in readme...
